@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout<<"hello,gdufs! ^-^"<<endl;
+	system("pause");
+	{
+	cout<<"here you can feel at home #-#"<<endl;
+	system("pause");
+	{	
+	cout<<"you can learn abundant knowledge from your teachers >-<"<<endl;
+    system("pause");
+    {
+	cout<<"you can also cope with other excellent peers $-$"<<endl;
+    system("pause");
+    {
+	cout<<"study togther,grow up together  *-*" <<endl; 
+	return 0; 
+}
+}
+}
+}
+}
